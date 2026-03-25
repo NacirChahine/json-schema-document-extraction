@@ -1,0 +1,17 @@
+{
+  "invoice_id": "INV-001",
+  "vendor": {
+    "name": "ABC Corp",
+    "tax_id": "123456"
+  },
+  "items": [
+    {
+      "description": "Product A",
+      "quantity": 2,
+      "unit_price": 50,
+      "total": 100
+    }
+  ],
+  "total_amount": 100,
+  "currency": "USD"
+}
